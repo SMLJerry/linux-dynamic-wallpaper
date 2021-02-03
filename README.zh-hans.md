@@ -2,7 +2,7 @@
 
 一个Linux的**动态壁纸引擎** （开发中）
 
-[English](https://github.com/SMLJerry/linux-dynamic-wallpaper-engine/blob/main/README.md)
+[English](https://github.com/SMLJerry/starry-river-wallpaper-engine/blob/main/README.md)
 
 ### 特性
 

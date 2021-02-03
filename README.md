@@ -1,7 +1,7 @@
 # Starry-river
 A **dynamic wallpaper engine** for Linux (developing)
 
-[Chinese[简体中文]](https://github.com/SMLJerry/linux-dynamic-wallpaper-engine/blob/main/README.zh-hans.md)
+[Chinese[简体中文]](https://github.com/SMLJerry/starry-river-wallpaper-engine/blob/main/README.zh-hans.md)
 
 ## Features
 
