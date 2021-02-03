@@ -1,12 +1,10 @@
-# Linux-dynamic-wallpaper-engine (LDWE)
+# 星河
 
-一个Linux的**动态壁纸引擎**
+一个Linux的**动态壁纸引擎** （开发中）
 
 [English](https://github.com/SMLJerry/linux-dynamic-wallpaper-engine/blob/main/README.md)
 
-[Chinese[简体中文]](https://github.com/SMLJerry/linux-dynamic-wallpaper-engine/blob/main/README.zh-hans.md)
-
-## 特性
+### 特性
 
 - [ ] 将视频作为动态壁纸
 - [ ] 支持GNOME3桌面

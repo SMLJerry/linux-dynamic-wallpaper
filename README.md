@@ -1,4 +1,4 @@
-# Linux-dynamic-wallpaper-engine (LDWE)
+# Starry-river
 A **dynamic wallpaper engine** for Linux (developing)
 
 [Chinese[简体中文]](https://github.com/SMLJerry/linux-dynamic-wallpaper-engine/blob/main/README.zh-hans.md)
@@ -24,3 +24,4 @@ For suggestions and bug feedback, please visit [Issues](https://github.com/SMLJe
     
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
