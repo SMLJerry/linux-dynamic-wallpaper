@@ -12,4 +12,7 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
-
+void MainWindow::on_actionExit_E_triggered()
+{
+    exit(0);
+}
